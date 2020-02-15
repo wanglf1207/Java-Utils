@@ -1,4 +1,4 @@
-package com.utils.xml.jaxb;
+package com.isle.utils.xml.jaxb;
 
 /**
  * @author  wanglf1207

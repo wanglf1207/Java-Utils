@@ -1,4 +1,4 @@
-package com.utils.md5;
+package com.isle.utils.md5;
 
 import java.security.MessageDigest;
 /**

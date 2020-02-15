@@ -1,4 +1,4 @@
-package com.utils.xml.jaxb;
+package com.isle.utils.xml.jaxb;
 
 import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlValue;
